@@ -1,1 +1,1 @@
-# Diminish_Image_Noise_Using_Deep_Learning
+# Diminishing_Image_Noise_Using_Deep_Learning
