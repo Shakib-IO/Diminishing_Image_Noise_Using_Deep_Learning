@@ -4,6 +4,6 @@ Denoising an image is a classical problem that researchers are trying to solve f
 There has to be a better way to solve this problem. As a result, I have implemented several deep learning architectures that far surpass the traditional denoising filters. In this blog, I will explain my approach step-by-step as a case study, starting from the problem formulation to implementing the state-of-the-art deep learning models, and then finally see the results.
 <br>
 Paper's Link: <br>
-REDNet :  https://arxiv.org/pdf/1606.08921.pdf
-MWCNN : https://arxiv.org/pdf/1805.07071.pdf
-PRIDNet : https://arxiv.org/pdf/1908.00273.pdf
+REDNet :  https://arxiv.org/pdf/1606.08921.pdf <br>
+MWCNN : https://arxiv.org/pdf/1805.07071.pdf <br>
+PRIDNet : https://arxiv.org/pdf/1908.00273.pdf <br>
