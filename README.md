@@ -60,8 +60,10 @@ So what we will focused on:
 ---
 The Score Table:<br>
 
-| Terms  | Peak Signal Noise Ratio  | Structural similarity index |
+| Terms  | Peak Signal Noise Ratio(PSNR)  | Structural similarity index(SSIN) |
 | :------------ |:---------------:| -----:|
 | Original      | 28.28188495 | 0.6475486 |
-| Predicted      | 32.34597064        |   $0.80606692 |
+| Predicted      | 32.34597064        |   0.80606692 |
+
+---
 
