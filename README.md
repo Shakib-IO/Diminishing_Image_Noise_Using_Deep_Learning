@@ -60,7 +60,8 @@ So what we will focused on:
 ---
 The Score Table:<br>
 
-Level | First Header  | Second Header
-| ------------- | -------------
-Original | Content Cell  | Content Cell
-Predicted | Content Cell  | Content Cell
+| Terms  | Peak Signal Noise Ratio  | Structural similarity index |
+| :------------ |:---------------:| -----:|
+| Original      | 28.28188495 | 0.6475486 |
+| Predicted      | 32.34597064        |   $0.80606692 |
+
