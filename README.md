@@ -38,6 +38,8 @@ So what we will focused on:
   3. NIND: https://commons.wikimedia.org/wiki/Natural_Image_Noise_Dataset#Tools
 
 ---
+- Noisy Images
+<img src="https://github.com/Shakib-IO/Diminishing_Image_Noise_Using_Deep_Learning/blob/main/Noisy%20Images/NOISY_SRGB_010.PNG" alt="" width="500" height="600">
 
 
 
