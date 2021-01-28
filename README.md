@@ -40,8 +40,12 @@ So what we will focused on:
 ---
 - Noisy Images
 
-<img src="https://github.com/Shakib-IO/Diminishing_Image_Noise_Using_Deep_Learning/blob/main/Noisy%20Images/NOISY_SRGB_010.PNG" alt="" width="400" height="350"> <img src="https://github.com/Shakib-IO/Diminishing_Image_Noise_Using_Deep_Learning/blob/main/Noisy%20Images/NOISY__SRGB_010.PNG" alt="" width="400" height="350">
+<img src="https://github.com/Shakib-IO/Diminishing_Image_Noise_Using_Deep_Learning/blob/main/Noisy%20Images/NOISY_SRGB_010.PNG" alt="" width="400" height="350">   <img src="https://github.com/Shakib-IO/Diminishing_Image_Noise_Using_Deep_Learning/blob/main/Noisy%20Images/NOISY__SRGB_010.PNG" alt="" width="400" height="350">
 
+---
+- GT Images
 
+<img src="https://github.com/Shakib-IO/Diminishing_Image_Noise_Using_Deep_Learning/blob/main/GT%20images/GT_SRGB_010.PNG" alt="" width="400" height="350">   <img src="https://github.com/Shakib-IO/Diminishing_Image_Noise_Using_Deep_Learning/blob/main/GT%20images/GT__SRGB_010.PNG" alt="" width="400" height="350">
 
+---
 
