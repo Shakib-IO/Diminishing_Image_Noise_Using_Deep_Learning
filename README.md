@@ -54,7 +54,6 @@ So what we will focused on:
 ---
 - Paper's Link: <br>
     - Researchers came up with filters to denoise an image. Most of the filters were specific to the type of noise the image has. There are several types of noises like Gaussian noise, Poisson noise, Speckle noise, Salt and Pepper noise, etc. There are specific filters for each type of noise. Hence, the first step to denoise an image using traditional filters is to identify the type of noise present in the image. After identifying that, we can go ahead and apply the specific filter. To identifying the type of noise, there are certain mathematical formulas to help us guess the type of noise. Or else a domain expert can decide it just by looking at the image. There are also some filters that work on any type of noise.
-<br>
     - There are tons of filters available for denoising an image.In this datasets I will be discussing the Non-Local Means (NLM) algorithm which is seen to be working very well to denoise an image. Other filter like Median filter (MF), Adaptive Median filter (AMF) and Adaptive Wiener filter (AWF) will be implemented. The filters will be used to remove the additive noises present in the MRI images.
     
 ---
