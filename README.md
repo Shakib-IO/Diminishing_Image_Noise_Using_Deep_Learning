@@ -73,7 +73,7 @@ The Score Table:<br>
       The Architecture of AutoEncoder
 ![alt text](https://hackernoon.com/hn-images/1*8ixTe1VHLsmKB3AquWdxpQ.png)
 
-The Score Table:<br
+The Score Table:<br>
 
 | Terms  | Peak Signal Noise Ratio(PSNR)  | Structural similarity index(SSIN) |
 | :------------ |:---------------:| -----:|
