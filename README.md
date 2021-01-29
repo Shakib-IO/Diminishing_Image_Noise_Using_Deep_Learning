@@ -56,7 +56,7 @@ So what we will focused on:
     - Researchers came up with filters to denoise an image. Most of the filters were specific to the type of noise the image has. There are several types of noises like Gaussian noise, Poisson noise, Speckle noise, Salt and Pepper noise, etc. There are specific filters for each type of noise. Hence, the first step to denoise an image using traditional filters is to identify the type of noise present in the image. After identifying that, we can go ahead and apply the specific filter. To identifying the type of noise, there are certain mathematical formulas to help us guess the type of noise. Or else a domain expert can decide it just by looking at the image. There are also some filters that work on any type of noise.
     - There are tons of filters available for denoising an image.In this datasets I will be discussing the Non-Local Means (NLM) algorithm which is seen to be working very well to denoise an image. Other filter like Median filter (MF), Adaptive Median filter (AMF) and Adaptive Wiener filter (AWF) will be implemented. The filters will be used to remove the additive noises present in the MRI images.
     
----
+
 The Score Table:<br>
 
 | Terms  | Peak Signal Noise Ratio(PSNR)  | Structural similarity index(SSIN) |
@@ -65,4 +65,11 @@ The Score Table:<br>
 | Predicted      | 32.34597064        |   0.80606692 |
 
 ---
+
+- Deep Learning Models for Image Denoising
+  - **AutoEncoder**<br>
+      Autoencoders are an unsupervised learning technique in which we leverage neural networks for the task of representation learning. Specifically, we'll design a neural             network architecture such that we impose a bottleneck in the network which forces a compressed knowledge representation of the original input. If the input features were         each independent of one another, this compression and subsequent reconstruction would be a very difficult task. However, if some sort of structure exists in the data (ie.       correlations between input features), this structure can be learned and consequently leveraged when forcing the input through the network's bottleneck.
+      
+      The Architecture of AutoEncoder
+![alt text](https://hackernoon.com/hn-images/1*8ixTe1VHLsmKB3AquWdxpQ.png)
 
