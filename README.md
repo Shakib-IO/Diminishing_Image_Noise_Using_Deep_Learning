@@ -133,8 +133,8 @@ Multi-level wavelet-CNN architecture. It consists two parts: the contracting and
 
 <img src ="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_282201%2Fproject_384731%2Fimages%2Fx1.png" >
 
-[Github](https://github.com/491506870/PRIDNet)<br>
-[Paper](https://arxiv.org/abs/1908.00273?context=cs.CV)
+[Github Link](https://github.com/491506870/PRIDNet)<br>
+[Paper Link](https://arxiv.org/abs/1908.00273?context=cs.CV)
 
 
 | Terms  | Peak Signal Noise Ratio(PSNR)  | Structural similarity index(SSIN) |
