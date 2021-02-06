@@ -98,3 +98,32 @@ The Score Table:<br>
 
 ---
 
+  - **MWCNN — Multi-level Wavelet CNN**<br>
+      This is a wavelet-based deep learning architecture. Its architecture has a striking similarity with a U-Net architecture. The only difference in MWCNN is that, unlike down-sampling and up-sampling in U-Net, here we use DWT (Discrete Wavelet Transform) and IWT (Inverse Wavelet Transform). 
+      
+**Network Architecture**
+
+Multi-level wavelet-CNN architecture. It consists two parts: the contracting and expanding subnetworks. Each solid box corresponds to a multi-channel feature map. And the number of channels is annotated on the top of the box. The network depth is 24. Moreover, our MWCNN can be further extended to higher level (e.g., ≥ 4) by duplicating the configuration of the 3rd level subnetwork.
+
+<img src = "https://raw.githubusercontent.com/lpj0/MWCNN/master/images/Architecture.png">
+
+<br>
+
+
+
+[Github Link](https://github.com/lpj0/MWCNN)
+
+[Paper Link](https://arxiv.org/abs/1805.07071)
+
+
+
+| Terms  | Peak Signal Noise Ratio(PSNR)  | Structural similarity index(SSIN) |
+| :------------ |:---------------:| -----:|
+| Original      | 26.2306718 | 0.57828607 |
+| Predicted      | 16.369216        |   0.511164859 |
+
+---
+
+
+
+
