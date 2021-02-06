@@ -125,5 +125,24 @@ Multi-level wavelet-CNN architecture. It consists two parts: the contracting and
 ---
 
 
+  - **PRIDNet — Pyramid Real Image Denoising Network**<br>
+      While deep Convolutional Neural Networks (CNNs) have shown extraordinary capability of modelling specific noise and denoising, they still perform poorly on real-world noisy images. The main reason is that the real-world noise is more sophisticated and diverse. To tackle the issue of blind denoising, in this paper, we propose a novel pyramid real image denoising network (PRIDNet), which contains three stages. First, the noise estimation stage uses channel attention mechanism to recalibrate the channel importance of input noise. Second, at the multi-scale denoising stage, pyramid pooling is utilized to extract multi-scale features. Third, the stage of feature fusion adopts a kernel selecting operation to adaptively fuse multi-scale features. Experiments on two datasets of real noisy photographs demonstrate that our approach can achieve competitive performance in comparison with state-of-the-art denoisers in terms of both quantitative measure and visual perception quality.
+      
+**Network Architecture**
+
+
+<img src ="https://storage.googleapis.com/groundai-web-prod/media%2Fusers%2Fuser_282201%2Fproject_384731%2Fimages%2Fx1.png" >
+
+[Github](https://github.com/491506870/PRIDNet)<br>
+[Paper](https://arxiv.org/abs/1908.00273?context=cs.CV)
+
+
+| Terms  | Peak Signal Noise Ratio(PSNR)  | Structural similarity index(SSIN) |
+| :------------ |:---------------:| -----:|
+| Original      | 25.785195 | 0.59497514 |
+| Predicted      | 28.908399 |   0.78549874 |
+
+---
+
 
 
