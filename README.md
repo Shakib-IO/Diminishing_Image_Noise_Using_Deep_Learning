@@ -139,8 +139,8 @@ Multi-level wavelet-CNN architecture. It consists two parts: the contracting and
 
 | Terms  | Peak Signal Noise Ratio(PSNR)  | Structural similarity index(SSIN) |
 | :------------ |:---------------:| -----:|
-| Original      | 25.785195 | 0.59497514 |
-| Predicted      | 28.908399 |   0.78549874 |
+| Original      | 27.89533182 | 0.6145745 |
+| Predicted      | 28.997406 |   0.71679110 |
 
 ---
 
