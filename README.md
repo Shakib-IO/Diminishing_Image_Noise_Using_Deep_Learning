@@ -25,6 +25,7 @@ So what we will focused on:
 
 ---
 
+
 - Paper's Link: <br>
 1. REDNet :  https://arxiv.org/pdf/1606.08921.pdf <br>
 2. MWCNN : https://arxiv.org/pdf/1805.07071.pdf <br>
@@ -81,7 +82,6 @@ The Score Table:<br>
 | Predicted      | 13.6541140        |   0.6257206 |
 
 ---
-
 
 
   - **RedNet: Residual Encoder-Decoder Network**<br>
