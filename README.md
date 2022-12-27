@@ -89,7 +89,7 @@ The Score Table:<br>
       Indoor semantic segmentation has always been a difficult task in computer vision.An RGB-D residual encoder-decoder architecture, named RedNet, for indoor RGB-D semantic         segmentation. In RedNet, the residual module is applied to both the encoder and decoder as the basic building block, and the skip-connection is used to bypass the spatial       feature between the encoder and decoder. In order to incorporate the depth information of the scene, a fusion structure is constructed, which makes inference on RGB image       and depth image separately, and fuses their features over several layers. In order to efficiently optimize the network's parameters, we propose a pyramid supervision           training scheme, which applies supervised learning over different layers in the decoder, to cope with the problem of gradients vanishing. Experiment results show that the       proposed RedNet(ResNet-50) achieves a state-of-the-art mIoU accuracy of 47.8% on the SUN RGB-D benchmark dataset
       
       The Architecture of RedNetz<br>
-![alt text](https://storage.googleapis.com/groundai-web-prod/media/users/user_127956/project_201430/images/x1.png)
+<img src = "https://raw.githubusercontent.com/JindongJiang/RedNet/master/figure/overall_structure.png" width="100%" height="100%">
 
 
 | Terms  | Peak Signal Noise Ratio(PSNR)  | Structural similarity index(SSIN) |
